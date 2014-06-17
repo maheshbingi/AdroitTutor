@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=wordText
+comment0.target=Text(java.lang.String)
+comment1.params=
+comment1.target=void\ act()
+comment2.params=
+comment2.target=java.lang.String\ getWordText()
+comment3.params=wordText
+comment3.target=void\ setWordText(java.lang.String)
+numComments=4

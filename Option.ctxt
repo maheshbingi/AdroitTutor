@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Option()
+comment1.params=optionText
+comment1.target=Option(java.lang.String)
+comment2.params=optionText\ imgPath
+comment2.target=Option(java.lang.String,\ java.lang.String)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=java.lang.String\ getOptionText()
+comment5.params=optionSelectedListener
+comment5.target=void\ setOptionSelectedListener(OnOptionSelectedListener)
+numComments=6

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=world
+comment0.target=GamePlayScreen(AdroitTutorWorld)
+comment1.params=screenType
+comment1.target=void\ showScreen(ScreenType)
+comment2.params=nextScreen
+comment2.target=void\ setNextScreen(IScreenHandler)
+comment3.params=
+comment3.target=void\ showGamePlayScreen()
+comment4.params=
+comment4.target=void\ showScoreBoard()
+comment5.params=
+comment5.target=void\ showQuestions()
+comment6.params=
+comment6.target=void\ showOptions()
+comment7.params=
+comment7.target=void\ clearOptions()
+comment8.params=
+comment8.target=void\ showTools()
+comment9.params=question
+comment9.target=void\ updateQuestion(Question)
+numComments=10
